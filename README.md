@@ -1,2 +1,2 @@
 # HelloWorld-ReactNative
-Hello World React Native Project
+Creating a simple react native project.
