@@ -1,4 +1,4 @@
-# HelloWorld-ReactNative
+# Hello World - React Native
 Goal: Create a simple Hello World react native project.
 
 ## Objectives:
